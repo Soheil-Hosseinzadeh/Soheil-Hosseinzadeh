@@ -16,6 +16,8 @@ I’m also a passionate **Linux** user and a huge fan of **Fedora**. 🐧
 
 ## Skills
 - AI & Machine Learning
+- Deep Learning
+- Transformers
 - Model Training & Fine-tuning
 - Linux administration
 - Network Security, Cryptography
