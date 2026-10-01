@@ -9,7 +9,7 @@ I’ve always been fascinated by mathematics and solving challenging problems. T
 
 I’m deeply interested in **Cybersecurity**, particularly in its intersection with AI and Machine Learning. I’m currently exploring these areas through **research, practical projects, and continuous learning**, with the goal of building deeper expertise in both.
 
-Beyond AI and cybersecurity, I have experience in **Backend and Software Development**, particularly with **Go**, and enjoy working on software projects.
+Beyond AI and cybersecurity, I have got strong knowledge and experience in **Backend and Software Development**, particularly with **Go**, and enjoy working on software projects.
 
 I’m also a passionate **Linux** user and a huge fan of **Fedora**. 🐧
 
