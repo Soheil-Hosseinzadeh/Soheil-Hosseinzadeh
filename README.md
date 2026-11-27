@@ -5,11 +5,10 @@
 ## Who I am
 I’m Soheil.
 
-I’ve always been fascinated by mathematics and solving challenging problems. This naturally led me toward **AI & Machine Learning**, where I enjoy exploring how mathematical and algorithmic ideas can be turned into practical solutions.
-
-I’m deeply interested in **Cybersecurity**, particularly in its intersection with AI and Machine Learning. I’m currently exploring these areas through **research, practical projects, and continuous learning**, with the goal of building deeper expertise in both.
-
-Beyond AI and cybersecurity, I have got strong knowledge and experience in **Backend and Software Development**, particularly with **Go**, and enjoy working on software projects.
+I’ve always been drawn to Mathematics, Algorithms, and Machine Learning. I genuinely enjoy working with them, exploring how they work and solving challenging problems. This curiosity led me toward AI, where I’ve developed a strong interest in understanding both the underlying concepts and their practical applications.
+I’m a Computer Engineering graduate with knowledge and hands-on experience in AI & Machine Learning, including Deep Learning and Neural Networks. I’ve developed this experience through practical projects, research, and continuous learning, while building a solid understanding of the mathematical foundations and concepts behind these areas.
+Alongside AI & ML, I have a strong interest in Backend and Software Development, with hands-on experience developing backend applications and services using Go.
+I’m currently expanding my knowledge and experience in AI and Software Development through practical projects, research, and continuous learning. I enjoy turning theoretical concepts into practical solutions and challenging myself with problems that require both analytical thinking and technical skills.
 
 I’m also a passionate **Linux** user and a huge fan of **Fedora**. 🐧
 
@@ -19,6 +18,7 @@ I’m also a passionate **Linux** user and a huge fan of **Fedora**. 🐧
 - Deep Learning
 - Transformers
 - Model Training & Fine-tuning
+- Agentic AI
 - Linux administration
 - Network Security, Cryptography
 - Back-end Web Development
