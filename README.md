@@ -7,6 +7,7 @@ I’m Soheil.
 
 I’ve always been drawn to Mathematics, Algorithms, and Machine Learning. I genuinely enjoy working with them, exploring how they work and solving challenging problems. This curiosity led me toward AI, where I’ve developed a strong interest in understanding both the underlying concepts and their practical applications.
 I’m a Computer Engineering graduate with knowledge and hands-on experience in AI & Machine Learning, including Deep Learning and Neural Networks. I’ve developed this experience through practical projects, research, and continuous learning, while building a solid understanding of the mathematical foundations and concepts behind these areas.
+
 Alongside AI & ML, I have a strong interest in Backend and Software Development, with hands-on experience developing backend applications and services using Go.
 I’m currently expanding my knowledge and experience in AI and Software Development through practical projects, research, and continuous learning. I enjoy turning theoretical concepts into practical solutions and challenging myself with problems that require both analytical thinking and technical skills.
 
